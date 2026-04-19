@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, let me introduce myself, i am it's Simone De Bartolo 🙋‍♂️
+## 🏦 Aspirant Investment Banker & Private Equity Professional 
 
-<!--
-**simonedeb/simonedeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Business Administration student at the University of Calabria (Unical), with a strong quantitative focus (Major in Banking and Finance with weighted average GPA 29.6/30);
+I am deeply passionate about financial markets, corporate valuation, and applying data science to investment strategies.
 
-Here are some ideas to get you started:
+**🛠️ Core Competencies:**
+* **Financial Modeling:** DCF, LBO (CURRENTLY LEARNING) , Scenario Analysis.
+* **Programming & Data** Python (Pandas, Numnpy, Matplotlib), Adavnced Excel
+* **Tools** Bloomberg terminal (BMC Certified)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Featured Projects:**
+* [Monte Carlo Portfolio Optimization:**] (link) A Python script simulating 10000 portolios to find the maximum sharpe Ratio on the Efficient Frontier,
+  focusing on European large-cap Equities, in particular [🏎️ Ferrari (RACE.MI), 💻 ASML Holding (ASML.AS), 💊 Novo Nordisk (NOVOb.CO), ⚡ Iberdrola (IBE.MC)].
+ [**Ferrari N.V. DCF Valuation:**] (link) . An end to end Discounted Cash Flow model built from scartch using offical Sec and historical financial statements.
+
+📫 **Let's connect:** [https://www.linkedin.com/in/simone-de-bartolo-5910043b6/]
