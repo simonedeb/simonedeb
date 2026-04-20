@@ -13,6 +13,6 @@ I am deeply passionate about financial markets, corporate valuation, and applyin
 * [Monte Carlo Portfolio Optimization:**] (link) A Python script simulating 10000 portolios to find the maximum sharpe Ratio on the Efficient Frontier,
   focusing on European large-cap Equities, in particular[🏎️ Ferrari (RACE.MI), 💻 ASML Holding (ASML.AS), 💊 Novo Nordisk (NOVOb.CO), ⚡ Iberdrola (IBE.MC)].
   
- * [**Ferrari N.V. DCF Valuation:**] (link) . An end to end Discounted Cash Flow model built from scartch using offical Sec and historical financial statements.
+ * [**Ferrari N.V. DCF Valuation:**] (in progress) . An end to end Discounted Cash Flow model built from scartch using offical Sec and historical financial statements.
 
 📫 **Let's connect:** [https://www.linkedin.com/in/simone-de-bartolo-5910043b6/]
