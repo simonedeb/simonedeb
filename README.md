@@ -10,7 +10,7 @@ I am deeply passionate about financial markets, corporate valuation, and applyin
 * **Tools** Bloomberg terminal (BMC Certified)
 
 **🚀 Featured Projects:**
-* [Monte Carlo Portfolio Optimization:**] (https://github.com/simonedeb/quant-portfolio-risk/tree/main) A Python script simulating 10000 portolios to find the maximum sharpe Ratio on the Efficient Frontier,
+* [Monte Carlo Portfolio Optimization:**] (https://github.com/simonedeb/quant-portfolio-risk) A Python script simulating 10000 portolios to find the maximum sharpe Ratio on the Efficient Frontier,
   focusing on European large-cap Equities, in particular[🏎️ Ferrari (RACE.MI), 💻 ASML Holding (ASML.AS), 💊 Novo Nordisk (NOVOb.CO), ⚡ Iberdrola (IBE.MC)].
   
  * [**Ferrari N.V. DCF Valuation:**] (in progress) . An end to end Discounted Cash Flow model built from scartch using offical Sec and historical financial statements.
